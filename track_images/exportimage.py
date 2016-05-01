@@ -17,7 +17,7 @@ def operate(m):
     print('DEBUGGING')
     print('#############')
     print('Default path: ' + m.DEFAULT_PATH)
-    print('getCwd(): ' + os.getcwd())
+    print('CWD imgs folder: ' + os.listdir(m.DEFAULT_PATH + '/static/imgs/'))
     print('#############')
 
     list_images = os.listdir(m.DEFAULT_PATH + '/static/imgs/original/')
