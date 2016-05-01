@@ -83,3 +83,5 @@
 (<type 'exceptions.IndexError'>, IndexError('list index out of range',), <traceback object at 0x03019260>)
 
 (<type 'exceptions.IndexError'>, IndexError('list index out of range',), <traceback object at 0x030191C0>)
+
+(<type 'exceptions.IOError'>, IOError("cannot identify image file '.DS_Store'",), <traceback object at 0x10549de60>)

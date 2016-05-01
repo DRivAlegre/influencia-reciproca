@@ -14,14 +14,14 @@ def operate(m):
     os.chdir(os.getcwd() + '/..')
     m.move_img_folder()
 
-    print('DEBUGGING')
-    print('####################################################')
-    print('Default path: ' + m.DEFAULT_PATH)
-    print('CWD imgs folder: ')
-    print(os.listdir(m.DEFAULT_PATH + '/static/imgs/'))
-    print('#############')
-    print('#############')
-    print('#############')
+    # print('DEBUGGING')
+    # print('####################################################')
+    # print('Default path: ' + m.DEFAULT_PATH)
+    # print('CWD imgs folder: ')
+    # print(os.listdir(m.DEFAULT_PATH + '/static/imgs/'))
+    # print('#############')
+    # print('#############')
+    # print('#############')
 
     list_images = os.listdir(m.DEFAULT_PATH + '/static/imgs/original/')
     if len(os.listdir(m.DEFAULT_PATH + '/static/imgs/glitched/')) == 0:
