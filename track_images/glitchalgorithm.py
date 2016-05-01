@@ -114,7 +114,7 @@ class Glitch(object):
          return ini_n,end_n
 
     def newrawbytes(self, data, ini, end):
-        dataraw = ""
+        dataraw = ''
         while len(dataraw) < len(data):
             dataraw += data[ini:end]
         return dataraw

@@ -4,7 +4,7 @@ import os, time, sys, json
 # Entry point
 def init():
     m = MainOperations(os.getcwd())
-    limg,path,operations = operate(m)
+    limg, path, operations = operate(m)
     return limg,path,operations
 
 def operate(m):
