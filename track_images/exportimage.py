@@ -15,9 +15,12 @@ def operate(m):
     m.move_img_folder()
 
     print('DEBUGGING')
-    print('#############')
+    print('####################################################')
     print('Default path: ' + m.DEFAULT_PATH)
-    print('CWD imgs folder: ' + os.listdir(m.DEFAULT_PATH + '/static/imgs/'))
+    print('CWD imgs folder: ')
+    print(os.listdir(m.DEFAULT_PATH + '/static/imgs/'))
+    print('#############')
+    print('#############')
     print('#############')
 
     list_images = os.listdir(m.DEFAULT_PATH + '/static/imgs/original/')
