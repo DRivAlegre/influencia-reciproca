@@ -1,0 +1,9 @@
+{
+  "name": "RandomApp",
+  "scripts": {
+    "sass": "sass --update static/css/main.scss:static/css/main.css"
+  },
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}

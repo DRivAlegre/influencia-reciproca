@@ -1,0 +1,85 @@
+
+
+(<type 'exceptions.IndexError'>, IndexError('list index out of range',), <traceback object at 0x02EA3EE0>)
+
+(<type 'exceptions.IOError'>, IOError(13, 'Permission denied'), <traceback object at 0x02EC0990>)
+
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x02EC0A08>)
+
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x02EC0CB0>)
+
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x02EC0D50>)
+
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x02EC0DF0>)
+
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x02EC0E90>)
+
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x02EC0F80>)
+
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x070CA058>)
+
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x070CA148>)
+
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x070CA1E8>)
+
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x070CA2D8>)
+
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x070CA378>)
+
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x070CA468>)
+
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x070CA508>)
+
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x070CA5F8>)
+
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x070CA698>)
+
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x02EB5490>)
+
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x070CA738>)
+
+(<type 'exceptions.IndexError'>, IndexError('list index out of range',), <traceback object at 0x02EB3EE0>)
+
+(<type 'exceptions.IndexError'>, IndexError('list index out of range',), <traceback object at 0x02EC3EB8>)
+
+(<type 'exceptions.IndexError'>, IndexError('list index out of range',), <traceback object at 0x02EC3D78>)
+
+(<type 'exceptions.IndexError'>, IndexError('list index out of range',), <traceback object at 0x02ECC0D0>)
+
+(<type 'exceptions.IndexError'>, IndexError('list index out of range',), <traceback object at 0x02ECC328>)
+
+(<type 'exceptions.IndexError'>, IndexError('list index out of range',), <traceback object at 0x02ECC760>)
+
+(<type 'exceptions.IndexError'>, IndexError('list index out of range',), <traceback object at 0x02ECC918>)
+
+(<type 'exceptions.IndexError'>, IndexError('list index out of range',), <traceback object at 0x02E85F08>)
+
+(<type 'exceptions.IndexError'>, IndexError('list index out of range',), <traceback object at 0x02E8C0D0>)
+
+(<type 'exceptions.IndexError'>, IndexError('list index out of range',), <traceback object at 0x02E8C120>)
+
+(<type 'exceptions.IndexError'>, IndexError('list index out of range',), <traceback object at 0x02FC6D50>)
+
+(<type 'exceptions.IndexError'>, IndexError('list index out of range',), <traceback object at 0x02FC6F30>)
+
+(<type 'exceptions.IndexError'>, IndexError('list index out of range',), <traceback object at 0x02FE52B0>)
+
+(<type 'exceptions.IndexError'>, IndexError('list index out of range',), <traceback object at 0x02ED8F08>)
+
+(<type 'exceptions.IndexError'>, IndexError('list index out of range',), <traceback object at 0x02EE1350>)
+
+(<type 'exceptions.IndexError'>, IndexError('list index out of range',), <traceback object at 0x02CA8EE0>)
+
+(<type 'exceptions.IndexError'>, IndexError('list index out of range',), <traceback object at 0x02CB10D0>)
+
+(<type 'exceptions.IndexError'>, IndexError('list index out of range',), <traceback object at 0x02CB1328>)
+
+(<type 'exceptions.IndexError'>, IndexError('list index out of range',), <traceback object at 0x02CB1148>)
+
+(<type 'exceptions.IndexError'>, IndexError('list index out of range',), <traceback object at 0x02CB1698>)
+
+(<type 'exceptions.IndexError'>, IndexError('list index out of range',), <traceback object at 0x03010F80>)
+
+(<type 'exceptions.IndexError'>, IndexError('list index out of range',), <traceback object at 0x03019260>)
+
+(<type 'exceptions.IndexError'>, IndexError('list index out of range',), <traceback object at 0x030191C0>)
