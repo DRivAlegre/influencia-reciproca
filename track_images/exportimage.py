@@ -13,6 +13,12 @@ def operate(m):
     os.chdir(os.getcwd() + '/..')
     os.chdir(os.getcwd() + '/..')
     m.move_img_folder()
+
+    print('DEBUGGING')
+    print(m.DEFAULT_PATH)
+    print(os.getcwd())
+    raise Exception('#############')
+
     list_images = os.listdir(m.DEFAULT_PATH + '/static/imgs/original/')
     if len(os.listdir(m.DEFAULT_PATH + '/static/imgs/glitched/')) == 0:
         for img in list_images:
